@@ -1,5 +1,12 @@
 # EFI-OPENCORE-HACKINTOSH [OPENCORE 0.7.3]
 
+### Screenshots
+
+![Screen Shot 2021-10-02 at 18 45 45](https://user-images.githubusercontent.com/25970273/135744222-76712fc2-1e35-4b3d-b3bb-9f111f6e0a60.png)
+![Screen Shot 2021-10-02 at 18 46 02](https://user-images.githubusercontent.com/25970273/135744223-391db96c-3422-442a-a58b-b5000ca78437.png)
+![Screen Shot 2021-10-02 at 18 46 27](https://user-images.githubusercontent.com/25970273/135744228-3dafb7fa-21a5-4c06-9e81-1da241e8500b.png)
+
+
 ### Device Specification
 |TYPE|SPEC  |
 |--|--|
