@@ -1,4 +1,4 @@
-# Opencore Hackintosh [Opencore v0.7.3]
+# Opencore Hackintosh [Opencore v0.7.4]
 
 
 ## Disclaimer
