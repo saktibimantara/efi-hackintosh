@@ -1,4 +1,4 @@
-# Opencore Hackintosh [Opencore v0.7.4]
+# Opencore Hackintosh [Opencore v0.7.8]
 
 
 ## Disclaimer
@@ -27,7 +27,7 @@ This EFI is for **___PERSONAL___** use, if you want to use it, please remember t
 |Monitor Model and Size| HP24MH 24 Inch|
 |Monitor Resolution|Full HD 1920 x 1080|
 |Boot Mode|UEFI|
-|OS Version| 11.6 (20G165) [BigSur]|
+|OS Version| 12.2.1 (20G165) [Monterey]|
 
 ### What's Working
 - QE/CI of Intel UHD 630
