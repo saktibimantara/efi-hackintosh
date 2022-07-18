@@ -6,10 +6,11 @@ This EFI is for **___PERSONAL___** use, if you want to use it, please remember t
 
 ### Screenshots
 
-![Screen Shot 2021-10-02 at 18 45 45](https://user-images.githubusercontent.com/25970273/135744222-76712fc2-1e35-4b3d-b3bb-9f111f6e0a60.png)
+![Screen Shot 2022-07-18 at 05 43 39](https://user-images.githubusercontent.com/25970273/179442245-0b93f9a6-e8de-48be-9f5d-6e7a4904b70e.png)
 ![Screen Shot 2021-10-02 at 18 46 02](https://user-images.githubusercontent.com/25970273/135744223-391db96c-3422-442a-a58b-b5000ca78437.png)
 ![Screen Shot 2021-10-03 at 09 30 38](https://user-images.githubusercontent.com/25970273/135744437-cd2ce6b9-99c1-45e1-86ea-3fd8744eb159.png)
 ![Screen Shot 2021-10-02 at 18 46 27](https://user-images.githubusercontent.com/25970273/135744228-3dafb7fa-21a5-4c06-9e81-1da241e8500b.png)
+
 
 
 ### Device Specification
